@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700884111 source:d:\students\chaitali\c language\first\main.c
+	<stdio.h>
+	<stdlib.h>
+
